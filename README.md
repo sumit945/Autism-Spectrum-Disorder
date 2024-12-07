@@ -1,4 +1,4 @@
-# Autism Spectrum Disorder Detection Code
+# Autism Spectrum Disorder Detection
 This repository contains the code for detecting Autism Spectrum Disorder (ASD) using deep learning techniques. The project employs state-of-the-art pre-trained models and includes the necessary preprocessing steps and evaluation metrics.
 
 **Features**
